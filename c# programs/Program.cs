@@ -71,5 +71,12 @@ namespace programs{
         {
             return a + b;
         }
+
+        //hi
+        //Gopi's changes
+        public int Substract(int a,int b)
+        {
+            return a - b;
+        }
     }
 }
