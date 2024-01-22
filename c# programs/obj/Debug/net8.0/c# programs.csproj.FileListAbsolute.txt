@@ -1,0 +1,14 @@
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\bin\Debug\net8.0\c# programs.exe
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\bin\Debug\net8.0\c# programs.deps.json
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\bin\Debug\net8.0\c# programs.runtimeconfig.json
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\bin\Debug\net8.0\c# programs.dll
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\bin\Debug\net8.0\c# programs.pdb
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\c# programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\c# programs.AssemblyInfoInputs.cache
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\c# programs.AssemblyInfo.cs
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\c# programs.csproj.CoreCompileInputs.cache
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\c# programs.dll
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\refint\c# programs.dll
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\c# programs.pdb
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\c# programs.genruntimeconfig.cache
+C:\Users\gthipireddy\programs\web programs\Angular+ASPNET\Api\c# programs\c# programs\obj\Debug\net8.0\ref\c# programs.dll
