@@ -65,5 +65,11 @@ namespace programs{
             return true;
 
         }
+
+        //priyanka's changes
+        public int Sum(int a,int b)
+        {
+            return a + b;
+        }
     }
 }
