@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gthipireddy\\.nuget\\packages\\": {},
+    "C:\\Users\\gpriyanka\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gthipireddy\\programs\\web programs\\Angular+ASPNET\\Api\\c# programs\\c# programs\\c# programs.csproj",
+      "projectUniqueName": "C:\\Users\\gpriyanka\\OneDrive - RealPage\\Desktop\\Git\\Interns\\c# programs\\c# programs.csproj",
       "projectName": "c# programs",
-      "projectPath": "C:\\Users\\gthipireddy\\programs\\web programs\\Angular+ASPNET\\Api\\c# programs\\c# programs\\c# programs.csproj",
-      "packagesPath": "C:\\Users\\gthipireddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gthipireddy\\programs\\web programs\\Angular+ASPNET\\Api\\c# programs\\c# programs\\obj\\",
+      "projectPath": "C:\\Users\\gpriyanka\\OneDrive - RealPage\\Desktop\\Git\\Interns\\c# programs\\c# programs.csproj",
+      "packagesPath": "C:\\Users\\gpriyanka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gpriyanka\\OneDrive - RealPage\\Desktop\\Git\\Interns\\c# programs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gthipireddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gpriyanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -34,8 +34,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://artifacts.realpage.com/artifactory/api/nuget/nuget-virtual": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
