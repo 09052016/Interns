@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sreddy5\\OneDrive - RealPage\\Desktop\\GIT\\Interns\\c# programs\\c# programs.csproj": {}
+    "C:\\Users\\gthipireddy\\programs\\web programs\\c# programs\\c# programs\\c# programs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sreddy5\\OneDrive - RealPage\\Desktop\\GIT\\Interns\\c# programs\\c# programs.csproj": {
+    "C:\\Users\\gthipireddy\\programs\\web programs\\c# programs\\c# programs\\c# programs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sreddy5\\OneDrive - RealPage\\Desktop\\GIT\\Interns\\c# programs\\c# programs.csproj",
+        "projectUniqueName": "C:\\Users\\gthipireddy\\programs\\web programs\\c# programs\\c# programs\\c# programs.csproj",
         "projectName": "c# programs",
-        "projectPath": "C:\\Users\\sreddy5\\OneDrive - RealPage\\Desktop\\GIT\\Interns\\c# programs\\c# programs.csproj",
-        "packagesPath": "C:\\Users\\sreddy5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sreddy5\\OneDrive - RealPage\\Desktop\\GIT\\Interns\\c# programs\\obj\\",
+        "projectPath": "C:\\Users\\gthipireddy\\programs\\web programs\\c# programs\\c# programs\\c# programs.csproj",
+        "packagesPath": "C:\\Users\\gthipireddy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gthipireddy\\programs\\web programs\\c# programs\\c# programs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sreddy5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gthipireddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.realpage.com/artifactory/api/nuget/nuget-virtual": {}
         },
         "frameworks": {
           "net8.0": {
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
