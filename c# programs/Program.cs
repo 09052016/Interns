@@ -78,5 +78,11 @@ namespace programs{
         {
             return a - b;
         }
+
+        //sumanth's changes
+        public int product(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
